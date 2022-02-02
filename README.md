@@ -1,3 +1,5 @@
+This Project can be accessed from the link: https://weatherapp-reactjs-owapi.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
