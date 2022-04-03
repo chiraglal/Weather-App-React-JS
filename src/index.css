@@ -9,14 +9,14 @@ body {
 }
 
 .app {
-  background-image: url('/img/pexels-eberhard-grossgasteiger-1366909.jpg');
+  background-image: url('/img/Cold.jpg');
   background-size: cover;
   background-position: bottom;
   transition: 1s ease;
 }
 
 .app.warm {
-  background-image: url('/img/pexels-eberhard-grossgasteiger-1670187.jpg');
+  background-image: url('/img/Sunny.jpg');
 }
 
 main {
