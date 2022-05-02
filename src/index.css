@@ -94,3 +94,10 @@ main {
   font-weight: 500;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  /* bottom: 0; */
+}

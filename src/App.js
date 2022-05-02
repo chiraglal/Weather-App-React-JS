@@ -71,7 +71,6 @@ function App() {
             value={query}
             onKeyPress={search}
           />
-          <div></div>
         </div>
         {typeof weather.main != "undefined" ? (
           <div>
@@ -89,6 +88,16 @@ function App() {
         ) : (
           ""
         )}
+        <footer className="footer">
+          Made with 💙 by
+          <a
+            href="https://github.com/chiraglal"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Chirag
+          </a>
+        </footer>
       </main>
     </div>
   );
