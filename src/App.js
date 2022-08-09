@@ -88,7 +88,7 @@ function App() {
         ) : (
           ""
         )}
-        <footer className="footer">
+        {/* <footer className="footer">
           Made with 💙 by
           <a
             href="https://github.com/chiraglal"
@@ -97,7 +97,7 @@ function App() {
           >
             Chirag
           </a>
-        </footer>
+        </footer> */}
       </main>
     </div>
   );
