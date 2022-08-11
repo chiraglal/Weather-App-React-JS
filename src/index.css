@@ -9,14 +9,15 @@ body {
 }
 
 .app {
-  background-image: url('/img/Cold.jpg');
+  background-image: url('https://images.unsplash.com/photo-1600699606850-b98817542653?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
   background-size: cover;
   background-position: bottom;
   transition: 1s ease;
 }
 
 .app.warm {
-  background-image: url('/img/Sunny.jpg');
+  background-image: url('https://images.unsplash.com/photo-1605371893234-db5e7b01aad2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  background-size: cover;
 }
 
 main {
